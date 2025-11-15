@@ -16,7 +16,6 @@
 
 ## 💬 Sobre mim
 -📈 Curioso por inovação, tecnologia e investimento
--🏃‍♂️ Tento mater uma vida saudável
 -🎮 Gosto de jogar videogame nas horas vagas
 
 ---
