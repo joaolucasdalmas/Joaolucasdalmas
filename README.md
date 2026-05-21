@@ -1,7 +1,8 @@
 # Opa! Eu sou o João 👋
 
-💻Sou estudante de engenharia de software na UniFil.
-
+- 💻Sou estudante de engenharia de software na UniFil.
+- 📈 Curioso por inovação, tecnologia e investimento
+- 🎮 Gosto de jogar videogame nas horas vagas
 
 ## 📫 Contato
 - Email: joaolucas.dalmas@gmail.com
@@ -9,14 +10,12 @@
 
 ## 🔧 Tecnologias
 - Java
+- Python, Django
 - JS, HTML, CSS
-- PostgreSQL
+- PostgreSQL, SQLite
 - Git & GitHub
 
 
-## 💬 Sobre mim
--📈 Curioso por inovação, tecnologia e investimento
--🎮 Gosto de jogar videogame nas horas vagas
 
 ---
 
