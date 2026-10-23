@@ -2,7 +2,6 @@
 
 - 💻Sou estudante de engenharia de software na UniFil.
 - 📈 Curioso por inovação, tecnologia e investimento
-- 🎮 Gosto de jogar videogame nas horas vagas
 
 ## 📫 Contato
 - Email: joaolucas.dalmas@gmail.com
