@@ -8,10 +8,9 @@
 - LinkedIn: www.linkedin.com/in/joaodalmas
 
 ## 🔧 Tecnologias
-- Java
 - Python, Django
 - JS, HTML, CSS
-- PostgreSQL, SQLite
+- PostgreSQL
 - Git & GitHub
 
 
